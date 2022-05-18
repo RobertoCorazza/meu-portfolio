@@ -1,0 +1,3 @@
+O que é Pensamento Computacional?
+O que é Lógica?
+Como um computador entende um programa?
